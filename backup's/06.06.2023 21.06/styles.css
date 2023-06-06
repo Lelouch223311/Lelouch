@@ -1,0 +1,19 @@
+h112{
+    color: red;
+    text-align: center;
+    font-size: 50px;
+}
+poof {
+    color: #000; /* Fallback for older browsers */
+    color: rgba(0, 0, 0, 0.5);
+
+    font-size: 9pt;
+    font-family: Arial, sans-serif;
+}
+poof1 {
+    color: #000; /* Fallback for older browsers */
+    color: rgba(0, 0, 0, 0.50);
+
+    font-size: 10pt;
+    font-family: Arial, sans-serif;
+}
