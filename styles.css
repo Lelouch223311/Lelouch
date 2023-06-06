@@ -3,3 +3,10 @@ h112{
     text-align: center;
     font-size: 50px;
 }
+poof {
+    color: #000; /* Fallback for older browsers */
+    color: rgba(0, 0, 0, 0.5);
+
+    font-size: 11pt;
+    font-family: Arial, sans-serif;
+}
