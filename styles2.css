@@ -18,6 +18,15 @@
     outline: none;
     padding: 5px 5px; /* Отступ от текста до рамки */
 }
+#textRED{
+    color: red;
+}
+#textGREEN{
+    color: green;
+}
+/* #div0{
+    color: rgba(0, 0, 0, 0);
+} */
 #Two1 {
     color: rgba(255, 0, 0, 0.651);
     font-family: monospace;
