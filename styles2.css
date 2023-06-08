@@ -1,0 +1,40 @@
+#One {
+    color: #000;
+    color: rgb(0, 255, 34);
+
+    text-align: right;
+    font-size: 30px;
+    font-family: monospace;
+}
+#Two {
+    color: crimson;
+    font-family: monospace;
+}
+#button0 {
+    background-color: crimson;
+    color: white;
+}
+#Two1 {
+    color: rgba(255, 0, 0, 0.651);
+    font-family: monospace;
+}
+#three { /* Text: Title: */
+    color: blueviolet;
+    /* background-color: lightgreen; */
+    font-size: 50px;
+    font-family: cursive;
+    text-align: left;
+}
+#four { /* Text: Urok HTML */
+    color: crimson;
+    background-color: lightblue;
+    font-size: 150px;
+    font-family: fantasy;
+    text-align: center;
+}
+#header {
+    background-color: black;
+}
+/* .three{
+    background-color: lightgreen;
+} */
